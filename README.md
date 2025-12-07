@@ -48,11 +48,11 @@ The EXE places all files into `AppData\Roaming\Vencord\AutoUpdater`.
 
 ## License
 
-Feel free to use/modify it. Vencord, if you would like to incorporate this into the mod lmk! 
+Feel free to use/modify/make pull requests. Vencord, if you would like to incorporate this into the mod lmk! 
 
 ## Credits
 
-Created by Xander.
+Created by [Xander](https://github.com/x-chap/).
 
 ## Disclaimer.
 
