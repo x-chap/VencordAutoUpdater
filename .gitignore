@@ -1,0 +1,63 @@
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Installer directory and outputs
+/VencordAutoUpdaterInstaller.exe
+/Installer/
+/installer/
+
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Auto-generated files
+discord-version.json
+update-log.txt
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Backup files
+*.original.lnk
+*.backup
+
+# IDE
+*.swp
+*.swo
+*~
+.DS_Store
+COMPLETE.md
+Install-DotNet.bat
+INSTALLATION_COMPLETE.md
+PROJECT_STRUCTURE.md
+QUICKSTART.md
