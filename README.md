@@ -1,6 +1,8 @@
 # VencordAutoUpdater
 
-This repository provides scripts and an installer for automating the update and launch process of Discord with Vencord.
+Tired of having to reinstall Vencord every time discord decides to update itself? 
+
+Instead, detect Discord updates and reinstall Vencord before launching Discord, so you never have to manually reinstall it again!
 
 ## Contents
 
